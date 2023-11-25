@@ -1,0 +1,1554 @@
+1691392774775	geckodriver	INFO	Listening on 127.0.0.1:54588
+1691392777859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilegivq3Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691392778263	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691392778353	Marionette	INFO	Listening on port 54597
+WebDriver BiDi listening on ws://127.0.0.1:54589
+Read port: 54597
+1691392778649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54589/devtools/browser/09baf482-3143-4e0e-9f3e-7b18b4d6b833
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 2850 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7808
+@https://connect.facebook.net/en_US/fbevents.js:24:63835
+
+JavaScript warning: https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%228AOghV9WdWtRSUxRT3lPb1dydjV5d0tWa1IxRiUyQlRzZzhkMDlYNzY5S3ZVTkxwejR4YzltSXk5MGY3WUl3Z1FiaUVlTVlqTEUzSVdYbnhpeXFzdGR5ZnZuOUsxbHdXSHVLYWFHQmJIVEtJZjVocnhJQkNUa2k0NXloOThVYkgzeUZ1b3ZzakdrSExqQTJuJTJCQkxzbCUyRkhpeDBDbWxCd3dHZUd1em5NTnJOZ1pSdFA3T2tBJTJCJTJGYXdwMmNWTFRWcWdsekhVclpj%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.022670326456529888%22}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%228AOghV9WdWtRSUxRT3lPb1dydjV5d0tWa1IxRiUyQlRzZzhkMDlYNzY5S3ZVTkxwejR4YzltSXk5MGY3WUl3Z1FiaUVlTVlqTEUzSVdYbnhpeXFzdGR5ZnZuOUsxbHdXSHVLYWFHQmJIVEtJZjVocnhJQkNUa2k0NXloOThVYkgzeUZ1b3ZzakdrSExqQTJuJTJCQkxzbCUyRkhpeDBDbWxCd3dHZUd1em5NTnJOZ1pSdFA3T2tBJTJCJTJGYXdwMmNWTFRWcWdsekhVclpj%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.022670326456529888%22}:16:3137
+r/<@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%228AOghV9WdWtRSUxRT3lPb1dydjV5d0tWa1IxRiUyQlRzZzhkMDlYNzY5S3ZVTkxwejR4YzltSXk5MGY3WUl3Z1FiaUVlTVlqTEUzSVdYbnhpeXFzdGR5ZnZuOUsxbHdXSHVLYWFHQmJIVEtJZjVocnhJQkNUa2k0NXloOThVYkgzeUZ1b3ZzakdrSExqQTJuJTJCQkxzbCUyRkhpeDBDbWxCd3dHZUd1em5NTnJOZ1pSdFA3T2tBJTJCJTJGYXdwMmNWTFRWcWdsekhVclpj%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.022670326456529888%22}:16:3665
+
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz, line 270: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:270:113
+
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 4380 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 4388 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22O2dirl9WdWtRSUxRT3lPb1dydjV5d0tWa1I5MlF5blVyQzJueEg1czJmMjVLRGpJNFpkangxcEhOczIyOVFNMkdVam44VFRNdXRiR2lnQVZDWSUyRnJ5V2lZTFdnRE1lOWtGeCUyRnlHR0ZBbjRFNlVDSWRSbUIlMkZuRVk0VjViMWlnd3MxTjl1SzlwUTd6SHc1Uld4ME5ONzB1RWlmTVZRbXdzdVJoVjdnRW5XMWh6cFQwJTJCcHhBWHVDdnpBMEZYQ05QQTcwbjlDag%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22O2dirl9WdWtRSUxRT3lPb1dydjV5d0tWa1I5MlF5blVyQzJueEg1czJmMjVLRGpJNFpkangxcEhOczIyOVFNMkdVam44VFRNdXRiR2lnQVZDWSUyRnJ5V2lZTFdnRE1lOWtGeCUyRnlHR0ZBbjRFNlVDSWRSbUIlMkZuRVk0VjViMWlnd3MxTjl1SzlwUTd6SHc1Uld4ME5ONzB1RWlmTVZRbXdzdVJoVjdnRW5XMWh6cFQwJTJCcHhBWHVDdnpBMEZYQ05QQTcwbjlDag%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22O2dirl9WdWtRSUxRT3lPb1dydjV5d0tWa1I5MlF5blVyQzJueEg1czJmMjVLRGpJNFpkangxcEhOczIyOVFNMkdVam44VFRNdXRiR2lnQVZDWSUyRnJ5V2lZTFdnRE1lOWtGeCUyRnlHR0ZBbjRFNlVDSWRSbUIlMkZuRVk0VjViMWlnd3MxTjl1SzlwUTd6SHc1Uld4ME5ONzB1RWlmTVZRbXdzdVJoVjdnRW5XMWh6cFQwJTJCcHhBWHVDdnpBMEZYQ05QQTcwbjlDag%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 2162 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22yXQG419WdWtRSUxRT3lPb1dydjV5d0tWa1IxdE45N2x4SzBlbiUyRjdBSWU1dmRlb0dIQVhQVFgzUXRZdmY0bFFtQmZoZklGNkw4bEZseElqWVUxMkNtak82MXNSdWdDYld2ck5aMmlKNXY0QzNHNzNpV21vJTJGb0ZjRmo5QkklMkJ4TW4lMkZsMmIzNjhBeWNOdFlPV09EVE9wWFl0RjJpQUJ3RVp2OUdmcnQlMkJpeldyYkRBRHc2TnRDQ2ZzaWNvdGpVSkZDSVB6ZGpR%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22yXQG419WdWtRSUxRT3lPb1dydjV5d0tWa1IxdE45N2x4SzBlbiUyRjdBSWU1dmRlb0dIQVhQVFgzUXRZdmY0bFFtQmZoZklGNkw4bEZseElqWVUxMkNtak82MXNSdWdDYld2ck5aMmlKNXY0QzNHNzNpV21vJTJGb0ZjRmo5QkklMkJ4TW4lMkZsMmIzNjhBeWNOdFlPV09EVE9wWFl0RjJpQUJ3RVp2OUdmcnQlMkJpeldyYkRBRHc2TnRDQ2ZzaWNvdGpVSkZDSVB6ZGpR%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22yXQG419WdWtRSUxRT3lPb1dydjV5d0tWa1IxdE45N2x4SzBlbiUyRjdBSWU1dmRlb0dIQVhQVFgzUXRZdmY0bFFtQmZoZklGNkw4bEZseElqWVUxMkNtak82MXNSdWdDYld2ck5aMmlKNXY0QzNHNzNpV21vJTJGb0ZjRmo5QkklMkJ4TW4lMkZsMmIzNjhBeWNOdFlPV09EVE9wWFl0RjJpQUJ3RVp2OUdmcnQlMkJpeldyYkRBRHc2TnRDQ2ZzaWNvdGpVSkZDSVB6ZGpR%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:36138
+UET/this.combine@https://bat.bing.com/bat.js:1:36217
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37232
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+1691393365846	Marionette	INFO	Stopped listening on port 54597
+Dynamically enable window occlusion 1
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+/sc_home.bundle.c9a8a0cd33eacc5f5e1d.js?ver=67:3214:35
+Slick.prototype.autoPlayIterator@https://js.shopclues.net/assets/js/dest/sc_home.bundle.c9a8a0cd33eacc5f5e1d.js?ver=67:2481:10
+i@https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67:5:6336
+
+JavaScript warning: https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22Zg0YOV9DS3V2QktvbmNNU1huTGJINTc2Y0Vnc0JydFhpbklSd1pma2pzME40cmtGZ1pib1NSS2VNU1dkdjFDWU9JWGdBa29NV0hkOVpFTWRSeWtXTGdtT0syWFVTd090ZUlZeEJZMUc3M1lXSXVzR3c0dCUyQlg4Qm1TY1B6RFhmZmFQWEx3WjhSUEphdTVzT3QlMkYxblNwZFpHS3dFU205OFo5RUkwbnJYSDZLSzJ2RDYlMkZ1SW5URUZqb2VMRlVMNTBBMnVBVjM%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:140,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6214357668545941%22}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22Zg0YOV9DS3V2QktvbmNNU1huTGJINTc2Y0Vnc0JydFhpbklSd1pma2pzME40cmtGZ1pib1NSS2VNU1dkdjFDWU9JWGdBa29NV0hkOVpFTWRSeWtXTGdtT0syWFVTd090ZUlZeEJZMUc3M1lXSXVzR3c0dCUyQlg4Qm1TY1B6RFhmZmFQWEx3WjhSUEphdTVzT3QlMkYxblNwZFpHS3dFU205OFo5RUkwbnJYSDZLSzJ2RDYlMkZ1SW5URUZqb2VMRlVMNTBBMnVBVjM%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:140,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6214357668545941%22}:16:3137
+r/<@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22Zg0YOV9DS3V2QktvbmNNU1huTGJINTc2Y0Vnc0JydFhpbklSd1pma2pzME40cmtGZ1pib1NSS2VNU1dkdjFDWU9JWGdBa29NV0hkOVpFTWRSeWtXTGdtT0syWFVTd090ZUlZeEJZMUc3M1lXSXVzR3c0dCUyQlg4Qm1TY1B6RFhmZmFQWEx3WjhSUEphdTVzT3QlMkYxblNwZFpHS3dFU205OFo5RUkwbnJYSDZLSzJ2RDYlMkZ1SW5URUZqb2VMRlVMNTBBMnVBVjM%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:140,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6214357668545941%22}:16:3665
+
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/2yB_GLmwlbs.js?_nc_x=Ij3Wp8lg5Kz, line 34: Script terminated by timeout at:
+b/<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/2yB_GLmwlbs.js?_nc_x=Ij3Wp8lg5Kz:34:271
+a@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:231:191
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:61:10432
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:227:500
+j@https://static.xx.fbcdn.net/rsrc.php/v3ij9m4/y_/l/en_GB/4JbRAkQZucW.js?_nc_x=Ij3Wp8lg5Kz:3:355
+k@https://static.xx.fbcdn.net/rsrc.php/v3ij9m4/y_/l/en_GB/4JbRAkQZucW.js?_nc_x=Ij3Wp8lg5Kz:3:603
+d/<@https://static.xx.fbcdn.net/rsrc.php/v3ij9m4/y_/l/en_GB/4JbRAkQZucW.js?_nc_x=Ij3Wp8lg5Kz:3:1214
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:61:10432
+b.$5@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:74:985
+a.$5@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:74:3053
+c@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:74:709
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:61:10432
+c.__emitToSubscription@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:70:1477
+c.emit@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:70:1303
+b.emitAndHold@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:72:1043
+b.inform@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:74:1648
+a.inform@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:74:2666
+j/window.onunload<@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:232:863
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:61:10432
+d@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:319:2086
+
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 4244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691393162997	Marionette	INFO	Stopped listening on port 54845
+JavaScript warning: https://js.shopclues.net/assets/js/dest/sc_home.bundle.c9a8a0cd33eacc5f5e1d.js?ver=67, line 1248: Script terminated by timeout at:
+@https://js.shopclues.net/assets/js/dest/sc_home.bundle.c9a8a0cd33eacc5f5e1d.js?ver=67:1248:5
+
+Dynamically enable window occlusion 1
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+[Parent 15516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10204, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1691393226646	geckodriver	INFO	Listening on 127.0.0.1:55058
+1691393229717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileuOZhgK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691393230102	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691393230199	Marionette	INFO	Listening on port 55066
+WebDriver BiDi listening on ws://127.0.0.1:55059
+Read port: 55066
+1691393230541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55059/devtools/browser/2f6f7502-33d1-4e91-9f62-1f1931307ebc
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 7103 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7808
+@https://connect.facebook.net/en_US/fbevents.js:24:63835
+
+JavaScript warning: https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22W_tsJV9aM2xCSmZDVlJwVm9iWTlRVXhVVEo0eVpiUlMlMkZuSG80b245bG03ViUyRmN4YXJUSzlxVjZQJTJGY3VXJTJCUXlabGVsenRCSk9wZVpuR2J2Uk0wOWYlMkJrQ2ZqVUM3cUtqYnRTTmN1MGZsNnIlMkJvRGcyJTJCVXRKamdiQlB3a0hRTmxXZGlOY2MlMkJHZkV4eFlOb0lZcW1qMlB2RzJiTncxUEFLQyUyQkt2N2dYemMwWXpVVTRQUTN1WkRQWHVZJTJGZmJLTWlTU1hjdSUyRk5l%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:140,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6331914758549688%22}, line 16: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22W_tsJV9aM2xCSmZDVlJwVm9iWTlRVXhVVEo0eVpiUlMlMkZuSG80b245bG03ViUyRmN4YXJUSzlxVjZQJTJGY3VXJTJCUXlabGVsenRCSk9wZVpuR2J2Uk0wOWYlMkJrQ2ZqVUM3cUtqYnRTTmN1MGZsNnIlMkJvRGcyJTJCVXRKamdiQlB3a0hRTmxXZGlOY2MlMkJHZkV4eFlOb0lZcW1qMlB2RzJiTncxUEFLQyUyQkt2N2dYemMwWXpVVTRQUTN1WkRQWHVZJTJGZmJLTWlTU1hjdSUyRk5l%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:140,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6331914758549688%22}:16:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22W_tsJV9aM2xCSmZDVlJwVm9iWTlRVXhVVEo0eVpiUlMlMkZuSG80b245bG03ViUyRmN4YXJUSzlxVjZQJTJGY3VXJTJCUXlabGVsenRCSk9wZVpuR2J2Uk0wOWYlMkJrQ2ZqVUM3cUtqYnRTTmN1MGZsNnIlMkJvRGcyJTJCVXRKamdiQlB3a0hRTmxXZGlOY2MlMkJHZkV4eFlOb0lZcW1qMlB2RzJiTncxUEFLQyUyQkt2N2dYemMwWXpVVTRQUTN1WkRQWHVZJTJGZmJLTWlTU1hjdSUyRk5l%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:140,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6331914758549688%22}:16:3152
+r/<@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22W_tsJV9aM2xCSmZDVlJwVm9iWTlRVXhVVEo0eVpiUlMlMkZuSG80b245bG03ViUyRmN4YXJUSzlxVjZQJTJGY3VXJTJCUXlabGVsenRCSk9wZVpuR2J2Uk0wOWYlMkJrQ2ZqVUM3cUtqYnRTTmN1MGZsNnIlMkJvRGcyJTJCVXRKamdiQlB3a0hRTmxXZGlOY2MlMkJHZkV4eFlOb0lZcW1qMlB2RzJiTncxUEFLQyUyQkt2N2dYemMwWXpVVTRQUTN1WkRQWHVZJTJGZmJLTWlTU1hjdSUyRk5l%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:140,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6331914758549688%22}:16:3665
+
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 7309 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/shopclues-sale-12.html, line 5781: ReferenceError: divolte is not defined
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 2928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1, line 170: Script terminated by timeout at:
+J@https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1:170:35
+Nv@https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1:391:218
+Mv.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1:395:263
+Mv.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1:393:207
+Fv@https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1:390:712
+QE/<@https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1:507:153
+aa.Ak/<@https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1:459:126
+aa.Ak/c/<@https://www.googletagmanager.com/gtag/js?id=G-G2NRDZ21BH&cx=c&_slc=1:458:420
+
+1691393361505	Marionette	INFO	Stopped listening on port 55066
+Dynamically enable window occlusion 1
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3452, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691393511756	geckodriver	INFO	Listening on 127.0.0.1:55344
+1691393514857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3wjucP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691393515368	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691393515491	Marionette	INFO	Listening on port 55354
+WebDriver BiDi listening on ws://127.0.0.1:55345
+Read port: 55354
+1691393515868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55345/devtools/browser/de1924c4-7db9-4e2b-88c7-5e7972db68d2
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 1460 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:36138
+UET/this.combine@https://bat.bing.com/bat.js:1:36217
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37232
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+JavaScript warning: https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%220Ahiil9Nc2hDR05LTDhkOG8lMkJ4TGt0cXY1eDhpMlMxSVN5Mlc4JTJGdUZkWHlQRDJwSU5oSXJpdVpRYSUyQkh1eEJ6Vm5aMHhhazNNWWs4QXRrZkpia1dQeGt3WEJNNTd4VUxucXlIenJYa2FLdWFKbDklMkZWQVAzZHI1SCUyRmh5bmtYb0dYQyUyQkhac2RKREklMkZvTk1LbWI2dmhsck5kRkYxV25ZY3hxUGpTU0glMkY2WW05U0NkS1dZdXhrMUxkMXZkZWdtVE1QYm1TTlBQ%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.19597903381451387%22}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%220Ahiil9Nc2hDR05LTDhkOG8lMkJ4TGt0cXY1eDhpMlMxSVN5Mlc4JTJGdUZkWHlQRDJwSU5oSXJpdVpRYSUyQkh1eEJ6Vm5aMHhhazNNWWs4QXRrZkpia1dQeGt3WEJNNTd4VUxucXlIenJYa2FLdWFKbDklMkZWQVAzZHI1SCUyRmh5bmtYb0dYQyUyQkhac2RKREklMkZvTk1LbWI2dmhsck5kRkYxV25ZY3hxUGpTU0glMkY2WW05U0NkS1dZdXhrMUxkMXZkZWdtVE1QYm1TTlBQ%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.19597903381451387%22}:16:3137
+r/<@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%220Ahiil9Nc2hDR05LTDhkOG8lMkJ4TGt0cXY1eDhpMlMxSVN5Mlc4JTJGdUZkWHlQRDJwSU5oSXJpdVpRYSUyQkh1eEJ6Vm5aMHhhazNNWWs4QXRrZkpia1dQeGt3WEJNNTd4VUxucXlIenJYa2FLdWFKbDklMkZWQVAzZHI1SCUyRmh5bmtYb0dYQyUyQkhac2RKREklMkZvTk1LbWI2dmhsck5kRkYxV25ZY3hxUGpTU0glMkY2WW05U0NkS1dZdXhrMUxkMXZkZWdtVE1QYm1TTlBQ%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.19597903381451387%22}:16:3665
+
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 6258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:36138
+UET/this.combine@https://bat.bing.com/bat.js:1:36217
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37232
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22lpTVcF9Nc2hDR05LTDhkOG8lMkJ4TGt0cXY1eDBHazhBQ25HeERSQzRaRXVOQ3FLYmIlMkZFUXRMcWdrM1pzVUl3dDJMZm84blFBZWF3UHpjMjd2VkcxYWtBdDJXdjcxWVpyUGxIa1ZSeDRjQmFYZmdsajRXbGclMkJtc0NWZ1NLSXk2cGklMkJNT0ZkWSUyRk9LcHpVY3MlMkIlMkZoUnRuYUNaQ2k4b2dRcWdRcDBiUlV5ZUpVTjRjNzN3MiUyQm5wbVAlMkI2QW1yWGtKaWpQY3E1OTA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22lpTVcF9Nc2hDR05LTDhkOG8lMkJ4TGt0cXY1eDBHazhBQ25HeERSQzRaRXVOQ3FLYmIlMkZFUXRMcWdrM1pzVUl3dDJMZm84blFBZWF3UHpjMjd2VkcxYWtBdDJXdjcxWVpyUGxIa1ZSeDRjQmFYZmdsajRXbGclMkJtc0NWZ1NLSXk2cGklMkJNT0ZkWSUyRk9LcHpVY3MlMkIlMkZoUnRuYUNaQ2k4b2dRcWdRcDBiUlV5ZUpVTjRjNzN3MiUyQm5wbVAlMkI2QW1yWGtKaWpQY3E1OTA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22lpTVcF9Nc2hDR05LTDhkOG8lMkJ4TGt0cXY1eDBHazhBQ25HeERSQzRaRXVOQ3FLYmIlMkZFUXRMcWdrM1pzVUl3dDJMZm84blFBZWF3UHpjMjd2VkcxYWtBdDJXdjcxWVpyUGxIa1ZSeDRjQmFYZmdsajRXbGclMkJtc0NWZ1NLSXk2cGklMkJNT0ZkWSUyRk9LcHpVY3MlMkIlMkZoUnRuYUNaQ2k4b2dRcWdRcDBiUlV5ZUpVTjRjNzN3MiUyQm5wbVAlMkI2QW1yWGtKaWpQY3E1OTA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz, line 270: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:270:162
+
+1691394089937	Marionette	INFO	Stopped listening on port 55354
+Dynamically enable window occlusion 1
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4144, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+ues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:36138
+UET/this.combine@https://bat.bing.com/bat.js:1:36217
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37232
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+JavaScript warning: https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22MYhkBF9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VHclMkZaOElnQXJMRWNxaldFYXZPZ1o4TUY2UzNIOHcxR0hnVno1UEdHZVdRRHRkOFJyTDVsTjNCcTZxWW14UzJDRUF6RWNrejklMkI4VUxpRmJNS1BhV2VRc3JFbEhEdlZTNVI4Rm00Zk5JTDBiYyUyQmN6cW42RWNyUklzc0FWYmp4T1IlMkZ6V0E1WGU3JTJCNGd3czQlMkZ2ZkNjM3RoTnFMMUwxJTJGRXlPNVQ2elZkNUNlJTJCeVk%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.38630148076108195%22}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22MYhkBF9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VHclMkZaOElnQXJMRWNxaldFYXZPZ1o4TUY2UzNIOHcxR0hnVno1UEdHZVdRRHRkOFJyTDVsTjNCcTZxWW14UzJDRUF6RWNrejklMkI4VUxpRmJNS1BhV2VRc3JFbEhEdlZTNVI4Rm00Zk5JTDBiYyUyQmN6cW42RWNyUklzc0FWYmp4T1IlMkZ6V0E1WGU3JTJCNGd3czQlMkZ2ZkNjM3RoTnFMMUwxJTJGRXlPNVQ2elZkNUNlJTJCeVk%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.38630148076108195%22}:16:3137
+r/<@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.shopclues.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%22MYhkBF9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VHclMkZaOElnQXJMRWNxaldFYXZPZ1o4TUY2UzNIOHcxR0hnVno1UEdHZVdRRHRkOFJyTDVsTjNCcTZxWW14UzJDRUF6RWNrejklMkI4VUxpRmJNS1BhV2VRc3JFbEhEdlZTNVI4Rm00Zk5JTDBiYyUyQmN6cW42RWNyUklzc0FWYmp4T1IlMkZ6V0E1WGU3JTJCNGd3czQlMkZ2ZkNjM3RoTnFMMUwxJTJGRXlPNVQ2elZkNUNlJTJCeVk%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:139,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.38630148076108195%22}:16:3665
+
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz, line 270: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:270:162
+
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 5240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:36138
+UET/this.combine@https://bat.bing.com/bat.js:1:36217
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37232
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22webBil9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDdXRGNZNmVnM05WM2ZhUCUyQllCZjA5TFZVTVpBQmxlZkJSU2ZIcWIwV2xCTlRVNk1ZZFFtU0EyTENJZkpwcFZ1Q2dramJPaG9PVm9yUjNxQmViZ0NscWF5dzIxMGtFVWw0ak1qMHJZTzhDMzVRT0JWdGVEUUV5UjQ3U3Jia1p3RFNRdENDVGxRTWdQSnRQdzF6MHIxT1h5M1pqNHhUNWxOM21iOGg2MnklMkIwUmM%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22webBil9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDdXRGNZNmVnM05WM2ZhUCUyQllCZjA5TFZVTVpBQmxlZkJSU2ZIcWIwV2xCTlRVNk1ZZFFtU0EyTENJZkpwcFZ1Q2dramJPaG9PVm9yUjNxQmViZ0NscWF5dzIxMGtFVWw0ak1qMHJZTzhDMzVRT0JWdGVEUUV5UjQ3U3Jia1p3RFNRdENDVGxRTWdQSnRQdzF6MHIxT1h5M1pqNHhUNWxOM21iOGg2MnklMkIwUmM%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22webBil9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDdXRGNZNmVnM05WM2ZhUCUyQllCZjA5TFZVTVpBQmxlZkJSU2ZIcWIwV2xCTlRVNk1ZZFFtU0EyTENJZkpwcFZ1Q2dramJPaG9PVm9yUjNxQmViZ0NscWF5dzIxMGtFVWw0ak1qMHJZTzhDMzVRT0JWdGVEUUV5UjQ3U3Jia1p3RFNRdENDVGxRTWdQSnRQdzF6MHIxT1h5M1pqNHhUNWxOM21iOGg2MnklMkIwUmM%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 7501 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:36138
+UET/this.combine@https://bat.bing.com/bat.js:1:36217
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37232
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22y48Zcl9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDN2M051STh5QUd0WUFQcDM3bmlDYiUyQkRRRUJkUUwya2U1Z0JnTm01dlUwcUdPMHpKazNQZWtrJTJGVXRXajZ4eWRxTWtvTDRtak9KOEdVbkFlMWFwJTJCb28xY3g4d3dNYUh1bXpVbnA0NkVkWGhQdjdmaWpPVXdyMmE4JTJCZ3lFSkNLTnlIV055VmclMkI3dDBxSm15UE1FU1J1cjZCQUoxOU1kcWVvWmhydGxCOGRlalk%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.logPixel@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22y48Zcl9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDN2M051STh5QUd0WUFQcDM3bmlDYiUyQkRRRUJkUUwya2U1Z0JnTm01dlUwcUdPMHpKazNQZWtrJTJGVXRXajZ4eWRxTWtvTDRtak9KOEdVbkFlMWFwJTJCb28xY3g4d3dNYUh1bXpVbnA0NkVkWGhQdjdmaWpPVXdyMmE4JTJCZ3lFSkNLTnlIV055VmclMkI3dDBxSm15UE1FU1J1cjZCQUoxOU1kcWVvWmhydGxCOGRlalk%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3418
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22y48Zcl9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDN2M051STh5QUd0WUFQcDM3bmlDYiUyQkRRRUJkUUwya2U1Z0JnTm01dlUwcUdPMHpKazNQZWtrJTJGVXRXajZ4eWRxTWtvTDRtak9KOEdVbkFlMWFwJTJCb28xY3g4d3dNYUh1bXpVbnA0NkVkWGhQdjdmaWpPVXdyMmE4JTJCZ3lFSkNLTnlIV055VmclMkI3dDBxSm15UE1FU1J1cjZCQUoxOU1kcWVvWmhydGxCOGRlalk%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3152
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22y48Zcl9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDN2M051STh5QUd0WUFQcDM3bmlDYiUyQkRRRUJkUUwya2U1Z0JnTm01dlUwcUdPMHpKazNQZWtrJTJGVXRXajZ4eWRxTWtvTDRtak9KOEdVbkFlMWFwJTJCb28xY3g4d3dNYUh1bXpVbnA0NkVkWGhQdjdmaWpPVXdyMmE4JTJCZ3lFSkNLTnlIV055VmclMkI3dDBxSm15UE1FU1J1cjZCQUoxOU1kcWVvWmhydGxCOGRlalk%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz, line 270: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:270:113
+
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 2430 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.shopclues.com/shopclues-sale-12.html, line 5805: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 940 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FE5iaF9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDN2YXN6UjdFcXBkeVFXc3pVSHNtcFpoRnJGUVVJWkpjS25rOEZmNmxSR1RzclNKcTFjSiUyRiUyQmRBN3VGZjMlMkJEV0ZFcFhvWWwlMkJLRElGdUN0SDEwWEtTVkxaVW1HTmJmVGVHVjVjODclMkYlMkZXS3VBNDZVaTI0WmFjbjUyUGN3QUxKZWNMVEdNYkRDJTJGJTJCdk1zS0ZqZjBCeU5NMEZwVjUwdktYcklMM2hjMyUyQndxNmtlbg%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FE5iaF9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDN2YXN6UjdFcXBkeVFXc3pVSHNtcFpoRnJGUVVJWkpjS25rOEZmNmxSR1RzclNKcTFjSiUyRiUyQmRBN3VGZjMlMkJEV0ZFcFhvWWwlMkJLRElGdUN0SDEwWEtTVkxaVW1HTmJmVGVHVjVjODclMkYlMkZXS3VBNDZVaTI0WmFjbjUyUGN3QUxKZWNMVEdNYkRDJTJGJTJCdk1zS0ZqZjBCeU5NMEZwVjUwdktYcklMM2hjMyUyQndxNmtlbg%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FE5iaF9WUXMlMkZ3RzFEUWtsWGNTS1hLRGU2VDN2YXN6UjdFcXBkeVFXc3pVSHNtcFpoRnJGUVVJWkpjS25rOEZmNmxSR1RzclNKcTFjSiUyRiUyQmRBN3VGZjMlMkJEV0ZFcFhvWWwlMkJLRElGdUN0SDEwWEtTVkxaVW1HTmJmVGVHVjVjODclMkYlMkZXS3VBNDZVaTI0WmFjbjUyUGN3QUxKZWNMVEdNYkRDJTJGJTJCdk1zS0ZqZjBCeU5NMEZwVjUwdktYcklMM2hjMyUyQndxNmtlbg%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37445
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+1691394088766	Marionette	INFO	Stopped listening on port 55598
+Dynamically enable window occlusion 1
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 11756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12296, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+sferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 2600 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37445
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FhNFk19JZWNJM0JtMmFuNG13YVJ3NGVkUTVONmgxM0RwRkFBMVh0SDlOZXh4cGNZTlZvJTJCelFzZG9LRTFTYXBhc1pnbTNDTTAwd2FlWWhONHVjaGlraTlmcyUyQjhtdkw3NjdFWGVlR3hWaWk2MWtYRXIzNFdMT29iJTJCdERiUGZMcVlQaGklMkJjR0NHaCUyRjYxbW1McTF2dVU0RllBcmRQR3d4TG1CMG1QNUlaaDJERlEyNlUyYTRsNGJXNllqT05mVktoeXlRdThs%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FhNFk19JZWNJM0JtMmFuNG13YVJ3NGVkUTVONmgxM0RwRkFBMVh0SDlOZXh4cGNZTlZvJTJCelFzZG9LRTFTYXBhc1pnbTNDTTAwd2FlWWhONHVjaGlraTlmcyUyQjhtdkw3NjdFWGVlR3hWaWk2MWtYRXIzNFdMT29iJTJCdERiUGZMcVlQaGklMkJjR0NHaCUyRjYxbW1McTF2dVU0RllBcmRQR3d4TG1CMG1QNUlaaDJERlEyNlUyYTRsNGJXNllqT05mVktoeXlRdThs%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22FhNFk19JZWNJM0JtMmFuNG13YVJ3NGVkUTVONmgxM0RwRkFBMVh0SDlOZXh4cGNZTlZvJTJCelFzZG9LRTFTYXBhc1pnbTNDTTAwd2FlWWhONHVjaGlraTlmcyUyQjhtdkw3NjdFWGVlR3hWaWk2MWtYRXIzNFdMT29iJTJCdERiUGZMcVlQaGklMkJjR0NHaCUyRjYxbW1McTF2dVU0RllBcmRQR3d4TG1CMG1QNUlaaDJERlEyNlUyYTRsNGJXNllqT05mVktoeXlRdThs%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 6906 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:36138
+UET/this.combine@https://bat.bing.com/bat.js:1:36217
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37232
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BLdVZV9JZWNJM0JtMmFuNG13YVJ3NGVkUTVEakpRWDVPbGNJT2I5QjJmOHI3WXJvM0lpdFltQmNTbyUyRkxScVUlMkJvbE81c1ZqJTJGZSUyQno3cTlpJTJGanp1RXQ5dDh4VlpqM25CVGY4JTJGMncwczR5cGZhNzgxNiUyQk55cDF0RW55YSUyQllxVUFsVXM4cEg4UkhWd1A2U2pYeWhTT3dGTiUyQkdBcE5hOXowWnVrd2ZwUnpkZnZ6V0p0MGt6bXF2VWEyWHBiOUxoakN6N3ZndFQ%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BLdVZV9JZWNJM0JtMmFuNG13YVJ3NGVkUTVEakpRWDVPbGNJT2I5QjJmOHI3WXJvM0lpdFltQmNTbyUyRkxScVUlMkJvbE81c1ZqJTJGZSUyQno3cTlpJTJGanp1RXQ5dDh4VlpqM25CVGY4JTJGMncwczR5cGZhNzgxNiUyQk55cDF0RW55YSUyQllxVUFsVXM4cEg4UkhWd1A2U2pYeWhTT3dGTiUyQkdBcE5hOXowWnVrd2ZwUnpkZnZ6V0p0MGt6bXF2VWEyWHBiOUxoakN6N3ZndFQ%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%22BLdVZV9JZWNJM0JtMmFuNG13YVJ3NGVkUTVEakpRWDVPbGNJT2I5QjJmOHI3WXJvM0lpdFltQmNTbyUyRkxScVUlMkJvbE81c1ZqJTJGZSUyQno3cTlpJTJGanp1RXQ5dDh4VlpqM25CVGY4JTJGMncwczR5cGZhNzgxNiUyQk55cDF0RW55YSUyQllxVUFsVXM4cEg4UkhWd1A2U2pYeWhTT3dGTiUyQkdBcE5hOXowWnVrd2ZwUnpkZnZ6V0p0MGt6bXF2VWEyWHBiOUxoakN6N3ZndFQ%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.shopclues.com/images/ui/js/common_header.js?ver=67, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 3203 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37445
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 3357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.shopclues.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-NFQ6Y6R9TN&l=dataLayer&cx=c, line 158: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-NFQ6Y6R9TN&l=dataLayer&cx=c:158:17
+bz@https://www.googletagmanager.com/gtag/js?id=G-NFQ6Y6R9TN&l=dataLayer&cx=c:444:134
+cz/<@https://www.googletagmanager.com/gtag/js?id=G-NFQ6Y6R9TN&l=dataLayer&cx=c:444:111
+
+JavaScript warning: https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%225yNEQ19JZWNJM0JtMmFuNG13YVJ3NGVkUTVDUDB1OTJudXZwdTVpMmZBQ0NCTkJTYzFBaGdpT0ZxaWhFbUNkWGx4cnU0UzZ1S3ExQTV0U0I2ZzYxS3JCWW11R1B0YiUyQk1pUUh6ZzNIZXBrMU1YZWRmUG12SDRxR3A5ZEpRMXZqV1lSQVJ6ZjU0eEZPTHFyOCUyRk45RzhJZ0RZTm1ZT21WQlZaandZSDBlUHphVDNHJTJGWEQwU1VSY1ZNejlmNHQ0RFhyeTMyZFA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 16: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%225yNEQ19JZWNJM0JtMmFuNG13YVJ3NGVkUTVDUDB1OTJudXZwdTVpMmZBQ0NCTkJTYzFBaGdpT0ZxaWhFbUNkWGx4cnU0UzZ1S3ExQTV0U0I2ZzYxS3JCWW11R1B0YiUyQk1pUUh6ZzNIZXBrMU1YZWRmUG12SDRxR3A5ZEpRMXZqV1lSQVJ6ZjU0eEZPTHFyOCUyRk45RzhJZ0RZTm1ZT21WQlZaandZSDBlUHphVDNHJTJGWEQwU1VSY1ZNejlmNHQ0RFhyeTMyZFA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3137
+r/<@https://gumi.criteo.com/syncframe?topUrl=www.shopclues.com&origin=onetag#{%22bundle%22:{%22origin%22:3,%22value%22:%225yNEQ19JZWNJM0JtMmFuNG13YVJ3NGVkUTVDUDB1OTJudXZwdTVpMmZBQ0NCTkJTYzFBaGdpT0ZxaWhFbUNkWGx4cnU0UzZ1S3ExQTV0U0I2ZzYxS3JCWW11R1B0YiUyQk1pUUh6ZzNIZXBrMU1YZWRmUG12SDRxR3A5ZEpRMXZqV1lSQVJ6ZjU0eEZPTHFyOCUyRk45RzhJZ0RZTm1ZT21WQlZaandZSDBlUHphVDNHJTJGWEQwU1VSY1ZNejlmNHQ0RFhyeTMyZFA%22},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22shopclues.com%22,%22topUrl%22:%22www.shopclues.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:16:3665
+
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz, line 270: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/21cLgrdBkOs.js?_nc_x=Ij3Wp8lg5Kz:270:113
+
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: https://www.shopclues.com/, line 2067: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 3047 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.shopclues.com/shopclues-sale-12.html, line 5805: ReferenceError: divolte is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YWyqd_Oya_dSvH525JbJDwnpcpeKFun9cRHY8jAJ9QQ.js line 2 > eval line 2086 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37445
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+
+1691394046996	Marionette	INFO	Stopped listening on port 55895
+Dynamically enable window occlusion 1
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1408, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
